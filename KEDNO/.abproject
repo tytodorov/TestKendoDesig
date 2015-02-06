@@ -1,0 +1,38 @@
+{
+  "ProjectName": "KEDNO",
+  "ProjectGuid": "6ee447c7-2270-427a-8074-a821bd43a222",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.KEDNO",
+  "DisplayName": "KEDNO",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{1eae18ea-0b80-4b2a-9634-08331f5ac893}",
+  "WP8ProductID": "{b3d3aa7b-f743-40ec-9f3c-c7b66e67820c}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
